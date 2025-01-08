@@ -40,41 +40,13 @@ Comunicación eficiente con modelos de lenguaje grandes para generación y proce
 Transcripción de audio a texto con alta precisión utilizando el modelo Whisper de OpenAI.
 🔊 API de Eleven Labs:
 
-Síntesis de voz realista y natural mediante la API de Eleven Labs.
-🔄 Flujo de Trabajo Automatizado:
 
-Intercambio de datos entre modelos para crear aplicaciones complejas de inteligencia artificial.
-📂 Estructura del Proyecto
-bash
-Copiar código
-/proyectotectonic
-│
-├── audio.wav           # Archivo de ejemplo de audio para transcripción
-├── conexioncongpt.py   # Script para conexión con modelos LLM
-├── eleven.py           # Script para interactuar con la API de Eleven Labs
-├── main.py             # Archivo principal para ejecución del proyecto
-├── prototipo.py        # Prototipo de flujo de interacción entre modelos
-└── tectonic.png        # Imagen representativa del proyecto
 ⚙️ Requisitos Previos
 Python 3.x
 OpenAI API Key
 Eleven Labs API Key
-Dependencias (instalables desde requirements.txt)
-Instalación de dependencias:
 
-bash
-Copiar código
-pip install -r requirements.txt
-🚦 Cómo Ejecutar el Proyecto
-Clonar el repositorio:
-bash
-Copiar código
-git clone https://github.com/Juankidd/proyectotectonic.git
-cd proyectotectonic
-Configurar las claves de las APIs en las variables de entorno.
 
-Ejecutar el archivo principal:
-
-bash
-Copiar código
-python main.py
+🌐 Contacto
+Desarrollador: Juan Manuel
+Correo Electrónico: (Opcional si deseas añadirlo)
